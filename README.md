@@ -1,22 +1,39 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Quezia%20Costa&fontSize=40&fontColor=ffffff)
-##  Sobre mim
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=200&section=header&text=Quezia%20Costa&fontSize=40&fontColor=ffffff)
 
-Futura cientista da computação pela UNICAP, estágiaria do centro de inteligência artificial da UNICAP, estudante de iniciação cientifica - pesquisa voltada para crianças com dislexia
+## Sobre mim
+
+Futura cientista da computação pela UNICAP, estagiária do Centro de Inteligência Artificial da universidade e pesquisadora em iniciação científica com foco em soluções para crianças com dislexia.
+
+Tenho interesse em inteligência artificial, ciência de dados e desenvolvimento de sistemas com impacto social.
 
 ---
 
-##  Tecnologias que uso
+## Tecnologias que uso
 
-### Linguagens
+### Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+---
+
 ### Web & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### Dados e Inteligência Artificial
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,22 +45,26 @@ Futura cientista da computação pela UNICAP, estágiaria do centro de inteligê
 ## Projetos em destaque
 
 ### Jarvis
+Assistente inteligente em desenvolvimento com foco em automação e IA.
 
-### Algoritmo k-means (imitando o comportamento do k-means)
+### Algoritmo K-Means
+Implementação e estudo do algoritmo K-Means para agrupamento de dados.
 
-### 
-
----
-
-##  Atualmente estudando
-
-- Inteligência artificial - LLMs
+### Pig Me Up
+Sistema de organização financeira pessoal com foco em controle de gastos e metas.
 
 ---
 
-##  Contato
+## Atualmente estudando
 
-- LinkedIn: [[linkedin](https://www.linkedin.com/in/quezia-costa-5195342b3/)]
--  Email: quezia.costa@unicap.br
+- Inteligência Artificial e LLMs  
+- Ciência de Dados  
+- Desenvolvimento Mobile  
+- Arquitetura de Software  
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/quezia-costa-5195342b3/  
+- Email: quezia.costa@unicap.br  
