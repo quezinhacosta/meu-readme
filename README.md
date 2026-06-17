@@ -50,9 +50,6 @@ Assistente inteligente em desenvolvimento com foco em automação e IA.
 ### Algoritmo K-Means
 Implementação e estudo do algoritmo K-Means para agrupamento de dados.
 
-### Pig Me Up
-Sistema de organização financeira pessoal com foco em controle de gastos e metas.
-
 ---
 
 ## Atualmente estudando
