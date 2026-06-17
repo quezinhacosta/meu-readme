@@ -1,6 +1,6 @@
 ##  Sobre mim
 
-Sou estudante de **Ciência da Computação na UNICAP**, estágiaria do centro de inteligência artificial da UNICAP, estudante de iniciação cientifica - pesquisa voltada para crianças com dislexia
+Futura cientista da computação pela UNICAP, estágiaria do centro de inteligência artificial da UNICAP, estudante de iniciação cientifica - pesquisa voltada para crianças com dislexia
 
 ---
 
